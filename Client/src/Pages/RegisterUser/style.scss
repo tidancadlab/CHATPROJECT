@@ -1,0 +1,10 @@
+.register {
+    input:focus {
+        box-shadow: 0px 0px 10px 2px green;
+        border-color: green !important;
+    }
+    input:hover {
+        box-shadow: 0px 0px 10px 2px green;
+        border-color: green !important;
+    }
+}
